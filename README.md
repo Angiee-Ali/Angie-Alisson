@@ -1,6 +1,6 @@
 # Angie-Alisson
 My personal description
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Angiee and I'm a software engineer, from Perú</h2>
 
 ###
 
